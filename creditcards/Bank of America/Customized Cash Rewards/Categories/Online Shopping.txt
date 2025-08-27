@@ -1,4 +1,5 @@
 adidas.com,true
+asics.com,true
 bestbuy.com,true
 big5sportinggoods.com,true
 claires.com,true
