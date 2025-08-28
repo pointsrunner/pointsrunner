@@ -1,3 +1,4 @@
 H Mart,true
 Jons Marketplace,true
 Trader Joe,true
+Vons,true

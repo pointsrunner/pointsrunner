@@ -19,3 +19,4 @@ oreillyauto.com,true
 shutterfly.com,true
 soletreadmills.com,true
 tello.com,true
+walmart.com,true
