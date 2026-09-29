@@ -1,22 +1,35 @@
 adidas.com,true
+als.com ALS SPORTING GOODS,true
+apple.com,true
 asics.com,true
 bestbuy.com,true
+benevity.com BENEVITY DONATIONS,true
 big5sportinggoods.com,true
 claires.com,true
 cloudflare.com,true
 costco.com,true
 crocs.com,true
 dominos.com,true
-dominos.com,true
 ebay.com,true
+epilepsylosangeles.org,true
 frontier.com,true
+hannaandersson.com,true
 homedepot.com,true
+intuit.com TurboTax,com
 joann.com,true
+jointotem.com,true
 levis.com,true
 luckybrand.com,true
+mydorian.com,true
 nike.com,true
 oreillyauto.com,true
+raceroster.com,true
 shutterfly.com,true
+runsignup,true
 soletreadmills.com,true
+target.com,true
 tello.com,true
+treering.com Yearbook,false
 walmart.com,true
+walmart.com WALMART EGIFT CARD,true
+yami.com-yamibuy.com,true
